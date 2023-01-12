@@ -6,4 +6,4 @@ Tools : HTML, CSS, Javascript, React
 
 Libraries : Framer Motion
 
-Storage : Firebase Storage
+Storage : Firebase Storage, Firebase Realtime Database
